@@ -44,7 +44,7 @@ There are many datasets available, but I chose the **IBM HR Analytics** dataset 
 ---
 
 #### **📂 Project Files**  
-- `attrition_analysis.sql` – Contains all SQL queries used in the project.  
+- `IBm Project.sql` – Contains all SQL queries used in the project.  
 - `README.md` – This file explains the project details.  
 
 ---
